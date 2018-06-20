@@ -1,23 +1,24 @@
 {
-  "name": "node-use-require",
-  "version": "0.0.2",
-  "description": "node use require absolute path",
+  "name": "abrequire",
+  "version": "0.0.3",
+  "description": "abrequire is absolute path require",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/7elven/node-use-require"
+    "url": "https://github.com/7elven/abrequire"
   },
   "keywords": [
     "node",
     "require",
-    "absolute path",
+    "absolute",
+    "path",
     "import",
     "use"
   ],
   "author": "Nonthachai Korninai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/7elven/node-use-require/issues"
+    "url": "https://github.com/7elven/abrequire/issues"
   },
-  "homepage": "https://www.npmjs.com/package/node-use-require"
+  "homepage": "https://github.com/7elven/abrequire"
 }
