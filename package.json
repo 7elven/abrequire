@@ -1,6 +1,6 @@
 {
   "name": "abrequire",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "abrequire is absolute path require",
   "main": "index.js",
   "repository": {
