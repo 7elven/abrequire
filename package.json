@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/7elven"
+    "url": "https://github.com/7elven/node-use-require"
   },
   "keywords": [
     "node",
@@ -17,7 +17,7 @@
   "author": "Nonthachai Korninai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/7elven"
+    "url": "https://github.com/7elven/node-use-require/issues"
   },
-  "homepage": "https://github.com/7elven"
+  "homepage": "https://www.npmjs.com/package/node-use-require"
 }
