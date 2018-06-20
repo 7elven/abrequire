@@ -1,0 +1,23 @@
+{
+  "name": "node-use-require",
+  "version": "0.0.1", 
+  "description": "node use require absolute path",
+  "main": "index.js", 
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/7elven"
+  },
+  "keywords": [ 
+    "node",
+    "require",
+    "absolute path",
+    "import",
+    "use"
+  ],
+  "author": "Nonthachai Korninai",
+  "license": "MIT", 
+  "bugs": { 
+    "url": "https://github.com/7elven"
+  },
+  "homepage": "https://github.com/7elven"
+}
