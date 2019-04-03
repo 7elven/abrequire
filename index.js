@@ -1,1 +1,1 @@
-module.exports=x=>require('../../'+x)
+module.exports=x=>require("../../"+x)
